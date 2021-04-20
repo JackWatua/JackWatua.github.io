@@ -1,1 +1,18 @@
 
+    body{
+      background-color: black;
+    }
+    p{
+      color: white;
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size; 12px;
+      text-align: left;
+    }
+    a{
+      text-decoration: none;
+      color: white;
+    }
+    ol{
+      color: red;
+    }
